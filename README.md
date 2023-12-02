@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C# , Asp.net core , Entity Framework**
 
-- 📫 How to reach me **razieh.brz.dev@gmail.com**
+- 📫 How to reach me ** razieh.brz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
