@@ -23,7 +23,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaziehBrz&theme=dracula&layout=compact)
 
-![Snake animation](https://github.com/RaziehBrz/RaziehBrz/blob/output/github-contribution-grid-snake.svg)
+https://github.com/RaziehBrz/RaziehBrz/blob/output/github-contribution-grid-snake.gif
 
 
 <!--
