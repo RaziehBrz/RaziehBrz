@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaziehBrz&theme=dracula&layout=compact)
 
 ### Watch my contribution graph get eaten by the snake 🐍
-![Snake animation](https://raw.githubusercontent.com/RaziehBrz/RaziehBrz/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RaziehBrz/RaziehBrz/output/github-contribution-grid-snake.svg)
 
 <!--
 **RaziehBrz/RaziehBrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
