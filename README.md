@@ -6,6 +6,7 @@
 - 💬 Ask me about **C# , Asp.net core , Entity Framework**
 
 - 📫 How to reach me  **razieh.brz.dev@gmail.com**
+- <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
