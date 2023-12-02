@@ -6,7 +6,9 @@
 
 - 💬 Ask me about **C# , Asp.net core , Entity Framework**
 
-- 📫 How to reach me  **razieh.brz.dev@gmail.com**
+- 📫 How to reach me :
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/RaziehBrz)](https://t.me/RezaAmini_ir)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white&link=razieh.brz.dev@gmail.com)](mailto:rezaaminiroyal@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
