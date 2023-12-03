@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.giphy.com/media/4YsfMPYdy568xTzQHc/giphy.gif" height="90" /></a>
-, I'm Razieh Barzegar <a href="URL_REDIRECT" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/243078652-7cc5988c-f607-4d4f-ab01-360a4f9321eb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE1NDA3NzIsIm5iZiI6MTcwMTU0MDQ3MiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTItN2NjNTk4OGMtZjYwNy00ZDRmLWFiMDEtMzYwYTRmOTMyMWViLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAyVDE4MDc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRkNTNiZDhmOGQ0OWQxZjdjNzUzZWQzMDEzM2E1Y2YxMzcwMDgzNjdhM2RiODc5MTk3NGVkM2RiMzkxYWE5Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._AXm9H2doGD3cD0V1HreD-bzB5GCOxSCYQwUw9vpXUI" height="90" /></h1>
+, I'm Razieh Barzegar</h1>
 <h3 align="center">A young backend developer from Shiraz</h3>
 
 - 🌱 I’m currently learning **Asp.net core**
