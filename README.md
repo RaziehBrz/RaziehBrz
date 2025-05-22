@@ -24,9 +24,6 @@
 
 ----
 
-### Watch my contribution graph get eaten by the snake 🐍
-![Snake animation](https://raw.githubusercontent.com/RaziehBrz/RaziehBrz/output/github-contribution-grid-snake.svg)
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=RaziehBrz&&style=flat-square)  
